@@ -1,0 +1,39 @@
+
+@font-face {
+	font-family: 'Georgia-Bold';
+	src: url('../fonts/georgia/georgia-bold/Georgia-Bold.eot');
+	src: url('../fonts/georgia/georgia-bold/Georgia-Bold.woff') format('woff'),
+		 url('../fonts/georgia/georgia-bold/Georgia-Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Georgia';
+	src: url('../fonts/georgia/georgia-regular/Georgia.eot');
+	src: url('../fonts/georgia/georgia-regular/Georgia.woff') format('woff'),
+		 url('../fonts/georgia/georgia-regular/Georgia.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Avenir';
+	src: url('../fonts/avenir/AvenirLT-Heavy.eot');
+	src: url('../fonts/avenir/AvenirLT-Heavy.woff') format('woff'),
+		 url('../fonts/avenir/AvenirLT-Heavy.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Lato-medium';
+	src: url('../fonts/lato/lato-medium/Lato-Medium.eot');
+	src: url('../fonts/lato/lato-medium/Lato-Medium.woff') format('woff'),
+		 url('../fonts/lato/lato-medium/Lato-Medium.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Lato-semiBold';
+	src: url('../fonts/lato/lato-semi-bold/Lato-SemiBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
