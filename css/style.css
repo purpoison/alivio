@@ -283,6 +283,12 @@ body {
 .story-wrap .story-img {
   padding-left: 52px;
 }
+@media (max-width: 800px) {
+  .story-wrap .story-img {
+    margin-top: 2em;
+    padding-left: 0;
+  }
+}
 @media (max-width: 1775px) {
   .story-wrap .story-img img {
     max-width: 100%;

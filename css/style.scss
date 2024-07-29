@@ -279,6 +279,10 @@ body {
   }
   .story-img {
     padding-left: 52px;
+    @media (max-width: 800px) {
+      margin-top: 2em;
+      padding-left: 0;
+    }
     img {
       @media (max-width: 1775px) {
         max-width: 100%;
